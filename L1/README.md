@@ -1,6 +1,6 @@
 # Laboratorinis darbas Nr.1. Duomenų apdorojimas ir analizė
 
-1. Pasirinkti (susikurti) duomenų rinkinį, su kuriuo atliksite šį bei sekančius laboratorinius darbus. Jūsų pasirinkimą turi patvirtinti vienas iš laboratorinių darbų destytojų.
+1. Pasirinkti (susikurti) duomenų rinkinį, su kuriuo atliksite šį bei sekančius laboratorinius darbus. Jūsų pasirinkimą turi patvirtinti vienas iš laboratorinių darbų dėstytojų.
 
 Duomenų rinkinio reikalavimai:
 * Turi egzistuoti skaitinės (_integer_ ir _real_ tipo) ir/arba kategorinės reikšmės. Duomenų rinkinys kuriame yra tik kategorinio tipo atributai **yra netinkamas**.
