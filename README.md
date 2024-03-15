@@ -1,3 +1,10 @@
 # P176B101-Introduction-to-Artificial-Intelligence
 
-Data used from: https://www.kaggle.com/datasets/ahsan81/used-handheld-device-data
+Modulio __P176B101 Intelektikos pagrindai__ laboratoriniai darbai.
+
+Laboratiniai darbai:
+- [x] L1 - Duomenų apdorojimas ir analizė.
+    - Naudotas duomenų rinkinys: https://www.kaggle.com/datasets/ahsan81/used-handheld-device-data.
+- [x] L2 - Sprendinių medžiai ir atsitiktiniai miškai.
+- [ ] L3 - .
+- [ ] IR - .
